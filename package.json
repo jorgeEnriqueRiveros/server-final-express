@@ -1,0 +1,15 @@
+{
+  "name": "serverfinal",
+  "version": "1.0.0",
+  "description": "terminado de server de express",
+  "main": "serverFinal.js",
+  "scripts": {
+    "test": "kike"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remoto agregar origen https://github.com/kikeriveros/server-final-express.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
