@@ -11,5 +11,8 @@
     "url": "git remoto agregar origen https://github.com/kikeriveros/server-final-express.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.11.3"
+  }
 }
